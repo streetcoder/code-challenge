@@ -1,0 +1,69 @@
+
+
+/* ==========================================================================
+   Author's StreetCoder
+   ========================================================================== */
+body{
+    background: #f2f2f2;
+}
+.sidebar{
+    background: #e6e6e6;
+    padding: 20px;
+}
+
+h3.book-title{
+    padding:0;
+    margin:5px 0;
+    font-size: 14px;
+}
+
+.sidebar .author{
+    font-size: 11px;
+}
+
+.sidebar hr{
+    margin-bottom: 10px;
+}
+
+h2.wishlist-heading{
+    padding:0;
+    margin:0 0 20px 0;
+}
+
+.book-item{
+    background: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.book-item img.book-item-thumb{
+    max-width: 145px;
+    max-height: 200px;
+}
+
+.book-item h3.wishlist-book-title{
+    padding:0;
+    margin:0 0 10px 0;
+    font-size: 18px;
+}
+
+.book-item .wishlist-pages{
+    font-style: italic;
+}
+
+h4.no-books-info{
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
